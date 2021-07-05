@@ -1,0 +1,7 @@
+{
+        "name":"asa",
+        "desc":"Default Project for Xelerate",
+		"filePath": "/asa/asa.json",
+        "type":"APPLICATION",
+        "childs":[]    
+}
